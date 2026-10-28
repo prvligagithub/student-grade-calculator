@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: grade-calculator
-          image: siddeadskull11/student-grade-calculator:v1
+          image: 24mis0392/student-grade-calculator:v1
           ports:
             - containerPort: 5000
